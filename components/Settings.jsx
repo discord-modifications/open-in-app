@@ -8,7 +8,7 @@ module.exports = class extends React.Component {
    }
 
    render() {
-      const { getSetting, updateSetting, toggleSetting } = this.props;
+      const { getSetting, toggleSetting } = this.props;
 
       return services.map(service =>
          <SwitchItem
@@ -19,4 +19,4 @@ module.exports = class extends React.Component {
          </SwitchItem>
       );
    }
-};;
+};
