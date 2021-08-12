@@ -1,4 +1,4 @@
-# Open In App [![CodeFactor](https://www.codefactor.io/repository/github/slow/open-in-app/badge)](https://www.codefactor.io/repository/github/slow/open-in-app) [![GitHub issues](https://img.shields.io/github/issues/slow/open-in-app?style=flat)](https://github.com/slow/open-in-app/issues) [![GitHub stars](https://img.shields.io/github/stars/slow/open-in-app?style=flat)](https://github.com/slow/open-in-app/stargazers)
+# Open In App [![CodeFactor](https://www.codefactor.io/repository/github/slow/open-in-app/badge)](https://www.codefactor.io/repository/github/slow/open-in-app) [![GitHub issues](https://img.shields.io/github/issues/slow/open-in-app?style=flat)](https://github.com/slow/open-in-app/issues) [![GitHub stars](https://img.shields.io/github/stars/slow/open-in-app?style=flat)](https://github.com/slow/open-in-app/stargazers) [![Support](https://img.shields.io/discord/875126204758360094)](https://discord.gg/shnvz5ryAt)
 
 Opens links all over the app in their respective app.
 
