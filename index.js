@@ -22,7 +22,7 @@ module.exports = class OpenInApp extends Plugin {
          if (link) {
             for (const service of services) {
                if (this.settings.get(service.name, true) && service.links.some(l => ~link.indexOf(l))) {
-                  args[0].href = `${service.identifier}${args[0].href}`;
+                  if (!link.includes(service.identifier)) args[0].href = `${service.identifier}${args[0].href}`;
                }
             }
          }
